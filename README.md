@@ -22,4 +22,4 @@ Data: Power BI and Advanced Excel.
 
 ## 📫 Let's talk?
 
-LinkedIn: linkedin.com/in/jorge-vagarinho
+[cite_start]LinkedIn: [linkedin.com/in/jorge-vagarinho](https://linkedin.com/in/jorge-vagarinho)
