@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Jorge Vagarinho 👋
 
-<!--
-**Jvagarinho/Jvagarinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT professional with a solid background in technical support and systems administration, who discovered a passion for creating web tools and applications. This space is my personal lab, where I share my evolution while learning new languages ​​and technologies.
 
-Here are some ideas to get you started:
+## 🛠️ What I'm working on:
+Developing Web Apps to solve small day-to-day problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring programming logic with Python and JavaScript.
+
+Creating responsive interfaces using HTML5 and CSS3.
+
+## 🔒 Focus on Cybersecurity and Data:
+In addition to development, I continuously invest in security, holding the Certified in Cybersecurity (CC) certification from ISC2. I also use my time to work with SQL and data processing (ETL).
+
+## 🚀 Technologies and Tools:
+
+Languages: HTML, CSS, JavaScript, Python, SQL.
+
+Systems: Windows Server and Linux.
+
+Data: Power BI and Advanced Excel.
+
+## 📫 Let's talk?
+
+LinkedIn: linkedin.com/in/jorge-vagarinho
